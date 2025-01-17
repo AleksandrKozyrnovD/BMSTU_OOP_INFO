@@ -1,0 +1,1 @@
+# BMSTU_OOP_INFO
